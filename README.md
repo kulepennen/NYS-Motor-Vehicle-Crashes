@@ -11,11 +11,18 @@ This project is part of a Data Scientist Nanodegree at Udacity. The goal of the 
 ....
 
 ## Files
-....
+The detailed analysis made in this project can be found in the attached Jupyter notebook. 
+
+The data files are to big to be uploaded to GITHUB
+Data, column descriptions as well as a general description of the dataset can be found here: https://www.kaggle.com/new-york-state/nys-motor-vehicle-crashes-and-insurance-reduction
+The dataset used is the: "motor-vehicle-crashes-vehicle-information-three-year-window.csv", consisting of 1.65m rows * 19 columns
+
 
 ## Project Interactions
-....
+Please use the Jupyter Notebook attached if you want to rerun this simple analysis. 
+Also, please see blog post at Medium here:
+
 
 ## Licensing, Acknowledgements, Authors, etc...
-....
+This project was completed as part of my process of learning Python and Data Science
 
